@@ -22,3 +22,5 @@ E:\SPYBullionTest\SPYBullionTest\obj\x86\Debug\SPYBullionTest.FrmHome.resources
 E:\SPYBullionTest\SPYBullionTest\obj\x86\Debug\SPYBullionTest.Frm_SuplierReg.resources
 E:\SPYBullionTest\SPYBullionTest\obj\x86\Debug\SPYBullionTest.Properties.Resources.resources
 E:\SPYBullionTest\SPYBullionTest\obj\x86\Debug\SPYBullionTest.csproj.GenerateResource.Cache
+C:\Users\vedya\Documents\GitHub\SPY-Bullion\SPYBullionTest\obj\x86\Debug\SPYBullionTest.exe
+C:\Users\vedya\Documents\GitHub\SPY-Bullion\SPYBullionTest\obj\x86\Debug\SPYBullionTest.pdb
